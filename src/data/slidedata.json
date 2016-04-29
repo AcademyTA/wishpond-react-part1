@@ -1,0 +1,30 @@
+[
+  {
+    "title": "Awesome Slide One",
+    "image": "/src/images/1150x550.jpg"
+  },
+  {
+    "title": "Awesome Slide Two",
+    "image": "/src/images/1150x550.jpg"
+  },
+  {
+    "title": "Awesome Slide Three",
+    "image": "/src/images/1150x550.jpg"
+  },
+  {
+    "title": "Awesome Slide Four",
+    "image": "/src/images/1150x550.jpg"
+  },
+  {
+    "title": "Awesome Slide Five",
+    "image": "/src/images/1150x550.jpg"
+  },
+  {
+    "title": "Awesome Slide Six",
+    "image": "/src/images/1150x550.jpg"
+  },
+  {
+    "title": "Awesome Slide Seven",
+    "image": "/src/images/1150x550.jpg"
+  }
+]
