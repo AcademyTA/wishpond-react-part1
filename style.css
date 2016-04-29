@@ -1,0 +1,44 @@
+body {
+  background-color: #2D2D2D;
+  color: #60DAFA;
+  font-family: 'PT Sans', sans-serif;
+}
+i {
+  color: #60DAFA;
+}
+
+nav {
+  background-color: black;
+  height: 80px;
+}
+
+.container {
+  padding-top: 10px;
+}
+
+.nav-logo {
+  height: 60px;
+  padding: 0px 30px;
+}
+
+.bullet-logo {
+  height: 30px;
+  /*padding: 0px 30px;*/
+}
+
+.header {
+  display: inline-block;
+}
+
+.header-title {
+  margin-top: 10px;
+  display: inline-block;
+}
+
+.navbar-margin {
+  margin-top: 100px;
+}
+
+.slide-footer {
+  height: 70px;
+}
