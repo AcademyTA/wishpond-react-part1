@@ -18,8 +18,7 @@ nav {
   padding: 0px 30px; }
 
 .bullet-logo {
-  height: 30px;
-  /*padding: 0px 30px;*/ }
+  height: 20px; }
 
 .header {
   display: inline-block; }
@@ -32,4 +31,7 @@ nav {
   margin-top: 100px; }
 
 .image-footer {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
   margin-bottom: 70px; }

@@ -5,7 +5,7 @@ var SlideItem = React.createClass({
     return (
       <div className="navbar-margin">
         <h2 className="text-center">{ this.props.title }</h2>
-        <img src={ this.props.image } className="image-footer"/>
+        <img src={ this.props.image } className="image-footer text-center"/>
       </div>
     )
   }

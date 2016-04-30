@@ -1,29 +1,36 @@
 [
   {
-    "title": "Awesome Slide One",
+    "slideId": 1,
+    "title": "Just Another Framework?",
+    "image": "/src/images/slide1.jpg"
+  },
+  {
+    "slideId": 2,
+    "title": "Learning Curve",
+    "image": "/src/images/react_graph.png"
+  },
+  {
+    "slideId": 3,
+    "title": "Tutorials",
     "image": "/src/images/1150x550.jpg"
   },
   {
-    "title": "Awesome Slide Two",
+    "slideId": 4,
+    "title": "Common Mistakes asnd Pain Points",
     "image": "/src/images/1150x550.jpg"
   },
   {
-    "title": "Awesome Slide Three",
-    "image": "/src/images/1150x550.jpg"
-  },
-  {
-    "title": "Awesome Slide Four",
-    "image": "/src/images/1150x550.jpg"
-  },
-  {
+    "slideId": 5,
     "title": "Awesome Slide Five",
     "image": "/src/images/1150x550.jpg"
   },
   {
+    "slideId": 6,
     "title": "Awesome Slide Six",
     "image": "/src/images/1150x550.jpg"
   },
   {
+    "slideId": 7,
     "title": "Awesome Slide Seven",
     "image": "/src/images/1150x550.jpg"
   }

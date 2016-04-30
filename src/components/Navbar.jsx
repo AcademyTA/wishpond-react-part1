@@ -12,7 +12,7 @@ var Navbar = React.createClass({
               </a>
             </div>
             <div className="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-              <h1 className="header-title">React JS: Learn by Building a List App with Components</h1>
+              <h1 className="header-title">React JS: Building a Simple List App with Reusable Components</h1>
             </div>
           </div>
         </nav>

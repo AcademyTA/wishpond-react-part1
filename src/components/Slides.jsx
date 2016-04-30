@@ -6,8 +6,8 @@ var SlideItem = require('./SlideItem.jsx');
 var Slides = React.createClass({
   mixins: [Carousel.ControllerMixin],
   render() {
-    var list = this.props.slideData.map(function(slideProps, index){
-      return <SlideItem key={ index } { ...slideProps } />
+    var list = this.props.slideData.map(function(slideProps){
+      return <SlideItem key={ slideProps.slideId } { ...slideProps } />
     });
 
     return (
