@@ -4,7 +4,11 @@ body {
   font-family: 'PT Sans', sans-serif;
 }
 i {
-  color: #60DAFA;
+  color: rgba(96, 218, 250, 0.3);
+}
+
+i:hover {
+  color: rgba(96, 218, 250, 1);
 }
 
 nav {
