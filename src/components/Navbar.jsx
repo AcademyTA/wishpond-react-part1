@@ -8,7 +8,7 @@ var Navbar = React.createClass({
           <div className="container">
             <div className="navbar-header">
               <a className="" href="#">
-                <img src="/src/images/react.png" className="nav-logo"/>
+                <img src="/wishpond-react-part1/src/images/react.png" className="nav-logo"/>
               </a>
             </div>
             <div className="collapse navbar-collapse" id="bs-example-navbar-collapse-1">

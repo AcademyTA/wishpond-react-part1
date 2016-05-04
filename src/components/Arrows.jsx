@@ -47,7 +47,7 @@ var Arrows = [{
                   <button
                     style={self.getButtonStyles(self.props.currentSlide === index)}
                     onClick={self.props.goToSlide.bind(null, index)}>
-                    <img src="/src/images/react.png" className="bullet-logo"/>
+                    <img src="/wishpond-react-part1/src/images/react.png" className="bullet-logo"/>
                   </button>
                 </li>
               )
