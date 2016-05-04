@@ -3,6 +3,9 @@ body {
   color: #60DAFA;
   font-family: 'PT Sans', sans-serif; }
 
+h2 {
+  margin-top: 10px; }
+
 i {
   color: rgba(96, 218, 250, 0.3); }
 
@@ -31,7 +34,7 @@ nav {
   display: inline-block; }
 
 .navbar-margin {
-  margin-top: 100px; }
+  margin-top: 80px; }
 
 .image-footer {
   display: block;
