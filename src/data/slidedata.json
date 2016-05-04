@@ -2,71 +2,71 @@
   {
     "slideId": 1,
     "title": "Just Another Framework?",
-    "image": "/src/images/slide1.jpg"
+    "image": "/wishpond-react-part1/src/images/slide1.jpg"
   },
   {
     "slideId": 2,
     "title": "Learning Curve",
-    "image": "/src/images/slide2.png"
+    "image": "/wishpond-react-part1/src/images/slide2.png"
   },
   {
     "slideId": 3,
     "title": "Tutorials",
-    "image": "/src/images/slide3.jpg"
+    "image": "/wishpond-react-part1/src/images/slide3.jpg"
   },
   {
     "slideId": 4,
     "title": "Common Mistakes and Pain Points",
-    "image": "/src/images/slide4.jpg"
+    "image": "/wishpond-react-part1/src/images/slide4.jpg"
   },
   {
     "slideId": 5,
     "title": "A JavaScript Object with this and bind",
-    "image": "/src/images/slide5.jpg"
+    "image": "/wishpond-react-part1/src/images/slide5.jpg"
   },
   {
     "slideId": 6,
     "title": "JSX vs. JavaScript",
-    "image": "/src/images/slide6.jpg"
+    "image": "/wishpond-react-part1/src/images/slide6.jpg"
   },
   {
     "slideId": 7,
     "title": "Regular React Syntax vs ECMAScript 6",
-    "image": "/src/images/slide7.jpg"
+    "image": "/wishpond-react-part1/src/images/slide7.jpg"
   },
   {
     "slideId": 8,
     "title": "this.props vs. this.state",
-    "image": "/src/images/slide8.jpg"
+    "image": "/wishpond-react-part1/src/images/slide8.jpg"
   },
   {
     "slideId": 9,
     "title": "The React Way",
-    "image": "/src/images/slide9.png"
+    "image": "/wishpond-react-part1/src/images/slide9.png"
   },
   {
     "slideId": 10,
     "title": "Conventions when Creating React Components",
-    "image": "/src/images/slide10.jpg"
+    "image": "/wishpond-react-part1/src/images/slide10.jpg"
   },
   {
     "slideId": 11,
     "title": "React Tooling Overview",
-    "image": "/src/images/slide11.jpg"
+    "image": "/wishpond-react-part1/src/images/slide11.jpg"
   },
   {
     "slideId": 12,
     "title": "Breaking Down the List App",
-    "image": "/src/images/slide12.jpg"
+    "image": "/wishpond-react-part1/src/images/slide12.jpg"
   },
   {
     "slideId": 13,
     "title": "Future Topics and Lessons",
-    "image": "/src/images/slide13.jpg"
+    "image": "/wishpond-react-part1/src/images/slide13.jpg"
   },
   {
     "slideId": 13,
     "title": "Cheers",
-    "image": "/src/images/1000x500.jpg"
+    "image": "/wishpond-react-part1/src/images/1000x500.jpg"
   }
 ]
